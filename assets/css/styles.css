@@ -1,0 +1,12 @@
+.container {
+  background-color: steelblue;
+  width: 400px;
+  height: 100px;
+}
+.container .texto {
+  text-align: center;
+  justify-content: center;
+  margin-left: 150px;
+  line-height: 100px;
+  color: white;
+}/*# sourceMappingURL=styles.css.map */
